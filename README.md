@@ -1,4 +1,4 @@
-# YoloV5-ncnn-Jetson-Nano
+# YoloV5 Jetson Nano
 ![output image]( https://qengineering.eu/images/test_parkV5.jpg )
 ## YoloV5 with the ncnn framework. <br/>
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)<br/><br/>
